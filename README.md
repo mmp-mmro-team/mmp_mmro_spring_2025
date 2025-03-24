@@ -77,7 +77,7 @@ COMING SOON
 | 27 февраля | Семинар 3 |Оптимизация: Метод Ньютона. Квазиньютоновские методы | [Конспект](https://github.com/mmp-mmro-team/mmp_mmro_spring_2025/blob/main/Seminars/Seminar3_MO_second_order.pdf) | ¯\\\_(ツ)\_/¯  | 
 | 6 марта | Семинар 4 | ЕМ-алгоритм: сходимость, скорость сходимости, связь с градиентным подъёмом | [Конспект](https://github.com/esokolov/ml-course-hse/blob/master/2020-spring/lecture-notes/lecture15-em.pdf) | [Домашнее задание на ЕМ-алгоритм]() |
 | 13 марта | Семинар 5 | <ul><li>ЕМ-алгоритм: решение задач (смеси распределений, GLAD)</li><li>ЕМ-алгоритм: пример решения super resolution</li></ul> | <ul><li>[Конспект](https://github.com/mmp-mmro-team/mmp_mmro_spring_2025/blob/main/Seminars/Seminar5_EM_problems.pdf)</li><li>[Конспект по super resolution](./Seminars/Seminar5_EM_part2_problems/Seminar5_EM_part2_super_resolution.ipynb)</li></ul> | ¯\\\_(ツ)\_/¯ |
-| 20 марта | Семинар 6 | Кластеризация: введение, основные методы | | ¯\\\_(ツ)\_/¯ | 
+| 20 марта | Семинар 6 | Кластеризация: введение, основные методы |[Конспект](https://github.com/mmp-mmro-team/mmp_mmro_spring_2025/blob/main/Seminars/Seminar_6_Clasterization.pdf) | ¯\\\_(ツ)\_/¯ | 
 | 27 марта | Семинар 7 | Кластеризация: спектральная кластеризация, оценки качества | | ¯\\\_(ツ)\_/¯ |
 | 3 апреля | Семинар 8 | Кластеризация: обучение метрик |  | [Домашнее задание на кластеризацию]() |
 | 10 апреля | Семинар 9 | Кластеризация: тематическое моделирование |  | ¯\\\_(ツ)\_/¯ |
