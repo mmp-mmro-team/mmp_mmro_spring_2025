@@ -79,7 +79,7 @@ COMING SOON
 | 13 марта | Семинар 5 | <ul><li>ЕМ-алгоритм: решение задач (смеси распределений, GLAD)</li><li>ЕМ-алгоритм: пример решения super resolution</li></ul> | <ul><li>[Конспект](https://github.com/mmp-mmro-team/mmp_mmro_spring_2025/blob/main/Seminars/Seminar5_EM_problems.pdf)</li><li>[Конспект по super resolution](./Seminars/Seminar5_EM_part2_problems/Seminar5_EM_part2_super_resolution.ipynb)</li></ul> | ¯\\\_(ツ)\_/¯ |
 | 20 марта | Семинар 6 | Кластеризация: введение, основные методы |[Конспект](https://github.com/mmp-mmro-team/mmp_mmro_spring_2025/blob/main/Seminars/Seminar_6_Clasterization.pdf) | ¯\\\_(ツ)\_/¯ | 
 | 27 марта | Семинар 7 | Кластеризация: спектральная кластеризация, оценки качества | | ¯\\\_(ツ)\_/¯ |
-| 3 апреля | Семинар 8 | Кластеризация: обучение метрик |  | [Домашнее задание на кластеризацию]() |
+| 3 апреля | Семинар 8 | Кластеризация: обучение метрик |  | [Домашнее задание на кластеризацию](https://github.com/mmp-mmro-team/mmp_mmro_spring_2025/blob/main/Homeworks/Unsupervised/homework-practice-1.ipynb) |
 | 10 апреля | Семинар 9 | Кластеризация: тематическое моделирование |  | ¯\\\_(ツ)\_/¯ |
 | 17 апреля | Семинар 10 | OCRL(Optimat Control Reinforcement Learning): Постановка задачи, введение в ПМП, связь с ККТ |   | ¯\\\_(ツ)\_/¯ |
 | 24 апреля | Семинар 11 | OCRL: функция Беллмана, динамическое программирование, связь с RL  |  | ¯\\\_(ツ)\_/¯ |
