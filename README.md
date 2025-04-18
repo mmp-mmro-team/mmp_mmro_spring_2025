@@ -79,10 +79,10 @@ COMING SOON
 | 13 марта | Семинар 5 | <ul><li>ЕМ-алгоритм: решение задач (смеси распределений, GLAD)</li><li>ЕМ-алгоритм: пример решения super resolution</li></ul> | <ul><li>[Конспект](https://github.com/mmp-mmro-team/mmp_mmro_spring_2025/blob/main/Seminars/Seminar5_EM_problems.pdf)</li><li>[Конспект по super resolution](./Seminars/Seminar5_EM_part2_problems/Seminar5_EM_part2_super_resolution.ipynb)</li></ul> | ¯\\\_(ツ)\_/¯ |
 | 20 марта | Семинар 6 | Кластеризация: введение, основные методы |[Конспект](https://github.com/mmp-mmro-team/mmp_mmro_spring_2025/blob/main/Seminars/Seminar_6_Clasterization.pdf) | ¯\\\_(ツ)\_/¯ | 
 | 27 марта | Семинар 7 | Кластеризация: спектральная кластеризация, оценки качества | [Конспект](https://github.com/mmp-mmro-team/mmp_mmro_spring_2025/blob/main/Seminars/spectral_clustering_seminar.pdf) | ¯\\\_(ツ)\_/¯ |
-| 3 апреля | Семинар 8 | Кластеризация: обучение метрик |  | [Домашнее задание на кластеризацию](https://github.com/mmp-mmro-team/mmp_mmro_spring_2025/blob/main/Homeworks/Unsupervised/homework-practice-1.ipynb) |
-| 10 апреля | Семинар 9 | Кластеризация: тематическое моделирование |  | ¯\\\_(ツ)\_/¯ |
-| 17 апреля | Семинар 10 | OCRL(Optimat Control Reinforcement Learning): Постановка задачи, введение в ПМП, связь с ККТ |   | ¯\\\_(ツ)\_/¯ |
-| 24 апреля | Семинар 11 | OCRL: функция Беллмана, динамическое программирование, связь с RL  |  | [Домашнее задание на OCRL]() |
+| 3 апреля | Семинар 8 | Кластеризация: обучение метрик | [Конспект](https://github.com/mmp-mmro-team/mmp_mmro_spring_2025/blob/main/Seminars/Seminar_8_metric_learning.pdf) | [Домашнее задание на кластеризацию](https://github.com/mmp-mmro-team/mmp_mmro_spring_2025/blob/main/Homeworks/Unsupervised/homework-practice-1.ipynb) |
+| 10 апреля | Семинар 9 | Кластеризация: тематическое моделирование | [Конспект](https://github.com/mmp-mmro-team/mmp_mmro_spring_2025/blob/main/Seminars/Seminar_9.pdf) | ¯\\\_(ツ)\_/¯ |
+| 17 апреля | Семинар 10 | OCRL(Optimat Control Reinforcement Learning): Постановка задачи, функция Беллмана в непрерывном и дикретном случае | [Конспект](https://github.com/mmp-mmro-team/mmp_mmro_spring_2025/blob/main/Seminars/Seminar_10__OCRL_2_0_first.pdf)  | ¯\\\_(ツ)\_/¯ |
+| 24 апреля | Семинар 11 | OCRL: Уравнения Риккати, Policy и Value Iteration  |  | [Домашнее задание на OCRL]() |
 | 1 мая | Выходной | Выходной | | ¯\\\_(ツ)\_/¯ |
 | 8 мая | Выходной | Выходной ||  ¯\\\_(ツ)\_/¯ |
 | 15 мая | Семинар 12 | OCRL: A2C | | ¯\\\_(ツ)\_/¯ |
