@@ -81,7 +81,7 @@ COMING SOON
 | 3 апреля | Семинар 8 | Кластеризация: обучение метрик | [Конспект](https://github.com/mmp-mmro-team/mmp_mmro_spring_2025/blob/main/Seminars/Seminar_8_metric_learning.pdf) | [Домашнее задание на кластеризацию](https://github.com/mmp-mmro-team/mmp_mmro_spring_2025/blob/main/Homeworks/Unsupervised/homework-practice-1.ipynb) |
 | 10 апреля | Семинар 9 | Кластеризация: тематическое моделирование | [Конспект](https://github.com/mmp-mmro-team/mmp_mmro_spring_2025/blob/main/Seminars/Seminar_9.pdf) | ¯\\\_(ツ)\_/¯ |
 | 17 апреля | Семинар 10 | OCRL(Optimat Control Reinforcement Learning): Постановка задачи, функция Беллмана в непрерывном и дикретном случае | [Конспект](https://github.com/mmp-mmro-team/mmp_mmro_spring_2025/blob/main/Seminars/Seminar_10__OCRL_2_0_first.pdf)  | ¯\\\_(ツ)\_/¯ |
-| 24 апреля | Семинар 11 | OCRL: Уравнения Риккати, Policy и Value Iteration  | [Конспект](https://github.com/mmp-mmro-team/mmp_mmro_spring_2025/blob/main/Seminars/Seminar_10__OCRL_2_0_first_and_second.pdf) | [Домашнее задание на OCRL]() |
+| 24 апреля | Семинар 11 | OCRL: Уравнения Риккати, Policy и Value Iteration  | [Конспект](https://github.com/mmp-mmro-team/mmp_mmro_spring_2025/blob/main/Seminars/Seminar_10__OCRL_2_0_first_and_second.pdf) | [Домашнее задание на OCRL](https://github.com/mmp-mmro-team/mmp_mmro_spring_2025/tree/main/Homeworks/OCRL) |
 | 1 мая | Выходной | Выходной | | ¯\\\_(ツ)\_/¯ |
 | 8 мая | Выходной | Выходной ||  ¯\\\_(ツ)\_/¯ |
 | 15 мая | Семинар 12 | OCRL: A2C | | ¯\\\_(ツ)\_/¯ |
